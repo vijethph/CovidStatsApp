@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/vijethph/CovidStatsApp">
-    <img src="assets/icon/icons8.png" alt="Logo" width="200" height="200">
+    <img src="assets/icon/icons8.png" alt="Logo" width="120" height="120">
   </a>
 
   <h2 align="center">Covid-19 Stats App</h2>
@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="screenshot1.jpg" width="250" height="350" alt="Project working">   <img src="screenshot2.jpg" width="250" height="350" alt="second screenshot">
+<img src="screenshot1.jpg" width="210" height="450" alt="Project working">   <img src="screenshot2.jpg" width="210" height="450" alt="second screenshot">
 
 This is a Flutter app that uses [Flutter UI Kit](https:/flutter.dev) and [Novel Covid API](https://corona.lmao.ninja) to retrieve the latest Covid-19 related statistics, and display them in a consistent manner. It displays various information related to the disease, such as worldwide confirmed count, most affected countries, and state-wise confirmed cases with respect to the country India. The app is also available in Kannada language.
 
